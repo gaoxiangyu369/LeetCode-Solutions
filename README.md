@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-My LeetCode solutions by Java or Python 
+My LeetCode solutions by Java or Python.
